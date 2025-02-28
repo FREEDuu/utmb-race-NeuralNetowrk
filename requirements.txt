@@ -1,4 +1,12 @@
 beautifulsoup4==4.13.3
+fastapi==0.115.9
+joblib==1.4.2
+numpy==2.2.3
+pandas==2.2.3
 psycopg2-binary
+pydantic==2.10.6
 python-dotenv==1.0.1
 Requests==2.32.3
+scikit_learn==1.6.1
+torch==2.6.0
+xgboost==2.1.4

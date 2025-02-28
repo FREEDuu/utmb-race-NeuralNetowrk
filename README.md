@@ -6,7 +6,7 @@ I just need a generic Trail Running Race ( with Distance and Elevation ) and a v
 
 ## How i scrape the data
 
-Everything i scraped is totally accessible online, for free 
+Everything i scraped is totally accessible online, for free,
 I use the script in api/ folder to do so
 
 ## How i train the model
@@ -23,7 +23,7 @@ make venv and install requirements.txt, in the root folder . . .
 
 ```bash
 
-python3 -m venv venv && source ven/bin/activate && pip install -r requirements.txt
+python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 
 ```
 
